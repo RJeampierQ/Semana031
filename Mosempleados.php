@@ -17,7 +17,7 @@
     <table border="1">
         <tr>
             <th>Nombres</th>
-            <th>DNI</th>
+            <th>DNIFEFWEFWE</th>
             <th>Sexo</th>
             <th>Edad</th>
             <th>Estado Civil</th>
