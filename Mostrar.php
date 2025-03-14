@@ -6,7 +6,7 @@
     <title>Lista de Egregmpleados</title>
 </head>
 <body>
-    <h1>Lista eggererde Empleados</h1>
+    <h1>Lista eggererde Empleados JAAAAAAAAAA</h1>
     <?php
     echo "<table border='1'>
             <tr>
