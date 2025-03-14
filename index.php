@@ -11,7 +11,7 @@ session_start();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aplicación web de empleados</title>
+    <title>g web de emgwgwrgrggpleados</title>
 </head>
 <body>
     <h1>Gestión de Empleados</h1>
