@@ -35,7 +35,7 @@
         if(count($busqueda) > 0) {
             $msg = "Empleado encontrado";
         } else {
-            $msg = "No se encontró aaaaaaaaaaadaal empleado, por favor verifique.";
+            $msg = "No se encontró nada";
         }
     }
 ?>
