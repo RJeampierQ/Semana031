@@ -9,7 +9,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aplicación web de empleados</title>
+    <title>Aplicación web</title>
 </head>
 <body>
     <h4>Lista de Empleados</h4>
